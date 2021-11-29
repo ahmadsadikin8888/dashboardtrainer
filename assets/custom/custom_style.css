@@ -1,0 +1,12 @@
+.scrollerchat {
+    background-image: url(../images/chat.png);
+    background-size: cover;
+    background-position: center;
+}
+.speech-bubble {
+    position: relative;
+    background: #1e3d73;
+    border-radius: .4em;
+    color: #fff;
+    z-index: 1;
+}
